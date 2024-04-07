@@ -1,2 +1,2 @@
 # Deeplearningproject4
-this is the project related todeeplearning
+this is the project related to deeplearning
