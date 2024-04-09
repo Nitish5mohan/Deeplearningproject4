@@ -21,7 +21,7 @@ name="Xray",
 version="0.0.1",
 author="Nitish kumar",
 author_email="nce2226@gmail.com",
-install_requires=get_requirements(r"C:\\Users\\nitis\\Desktop\\DeepLearningProject4\\requirement.txt"),
+install_requires=get_requirements(r"C:\\Users\\nitis\\Desktop\\deeplearningproject\\DeepLearningProject4\\requirement.txt"),
 package=find_packages()
 
 )
